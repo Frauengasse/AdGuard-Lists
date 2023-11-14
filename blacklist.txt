@@ -1,2 +1,10 @@
 !
 ! Title: Frauengasse Blocklist
+
+||spiele.kurier.at^$important
+||www.facebook.com^$important
+||facebook.net^$important
+||facebook.com^$important
+||playrix.com^$important
+||poki.com^$important
+||destructoid.com^$important
