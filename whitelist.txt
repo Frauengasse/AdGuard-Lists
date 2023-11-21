@@ -1,4 +1,5 @@
 @@|frauengasse.eu^$important
 @@|github.com^$important
+@@|eduvidual.at^$important
 @@|proxy.portal.at^$important
 @@|netflix.com^$important
