@@ -4,4 +4,3 @@
 @@|digi4school.at^$important
 @@|proxy.portal.at^$important
 @@|netflix.com^$important
-@@|youtube.com/watch?v=_ZdxlTbvaeY^$important
