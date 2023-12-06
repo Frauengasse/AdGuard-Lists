@@ -8,3 +8,4 @@
 ||playrix.com^$important
 ||poki.com^$important
 ||destructoid.com^$important
+||y8.net^$important
